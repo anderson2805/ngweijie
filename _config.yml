@@ -70,14 +70,14 @@ author:
 
 
 ### Posts ###
-permalink: portfolio/blog/:title
+permalink: /portfolio/blog/:title
 
 
 ### Collections ###
 collections:
   projects:
     output: true
-    permalink: portfolio/projects/:name
+    permalink: /portfolio/projects/:name
 #  elements:                                             # For Documentation Only
 #    output: true                                        # For Documentation Only
 
