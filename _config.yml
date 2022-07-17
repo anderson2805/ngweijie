@@ -47,16 +47,16 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Ng Wei Jie
-  image             : https://github.com/anderson2805/portfolio/blob/main/assets/dp.jpg?raw=true
+  image             : assets/dp.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : ngweijie@outlook.com
 # facebook          : your_username
-  github            : your_username
+  github            : anderson2805
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : weijie-ng
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
