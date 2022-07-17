@@ -1,6 +1,6 @@
 # Local Site Directories
 _site/
-_project_bu/
+_projects_bu/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
