@@ -1,11 +1,9 @@
 - title: Data Scientist, DSTA
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  from: 2016
+  to: Present
+  description: • Analysed capability gaps and data exploitation opportunities for the development of NLP and visualisation products as well as driving product development strategy and streamlining the team's development process. <br/>
+               • Led cross-government horizon scanning process using NLP techniques. <br/>
+               • Championed and evaluated new technology opportunities, of value up to S$1 million, and defined business value creation to management. <br/>
 
 - title: Master of Technology (Enterprise Business Analytics), National University of Singapore
   from: 2020
@@ -14,11 +12,10 @@
                • Produce predictive models (such as ARIMA or Deep Learning) to solve a broad range of problems across various business functions and units <br/>
                • Contribute to the development of more effective business strategies and plans for sustainable growth and competitive advantage <br/>
 
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Bachelor of Computer Science with Honours, Nanyang Technological University
+  from: 2013
+  to: 2016
+  description: Final Year Project - Non stationary data modelling with neural fuzzy system for stock modelling <br/>
+               • Defined the reasoning steps needed to handle data shifts and drifts in the series. <br/>
+               • Made informed decision by predicting the smart money investors fund flow into and exiting the market using Fuzzy Artificial Neural Network and other machine learning techniques. <br/>
+               
