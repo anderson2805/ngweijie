@@ -3,7 +3,7 @@ title: Producing Explainable AI (XAI) and Interpretable Machine Learning Solutio
 tags: [Learning, Machine Learning, Artificial Intelligence]
 style: fill
 color: info
-description: Data scientists and machine learning professionals have to stay apace with the latest techniques and approaches in the field. In this course, instructor Keith McCormick shows us how to produce explainable AI (XAI) and interpretable machine learning (IML) solutions.
+description: Data scientists and machine learning professionals have to stay apace with the latest techniques and approaches in the field.
 ---
 
 Source: [Keith McCormick](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions)
