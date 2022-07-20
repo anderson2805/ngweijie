@@ -60,11 +60,13 @@ Book to learn more: An Introduction to Statistical Learning (Gareth James, Danie
     - Idea behind CORELS is to search the solution space thoroughly and to produce a compact, yet optimal, set of rules. (address greedy algorithm)
     - Other contemporary algorithms aim for simple solutions and if it competes well with our own complex model, optimisation (simplifying) our model is needed.
 - Black box models, especially random forests, can be used to build many models to identify which variables are rarely helpful.
+
 ## Personal thoughts
 This course quickly summarised the current state of XAI in a beginner-friendly manner and straight to the main point. Of the few examples given, they are on point in cases used such as credit scoring on the COTS tool KNIME.
 
-Due to this course's designation as an intermediate course, there is no deep explanation in some key areas, such as the work behind local explanations, making it more comparable to an introductory course on XAI. Without concrete examples, some issues regarding feature scaling, imbalance datasets used for credit scoring, and how they affect feature importance remain unclear.
+Due to this course's designation as an intermediate course, it is disappointing that there is no deep explanation in some key areas, such as the working behind local explanations, making it more comparable to an introductory course on XAI. Without concrete examples, some issues regarding feature scaling, imbalance datasets used for credit scoring, and how they affect feature importance remain unclear.
 
 ## What's next?
+Reading List:
 - Interpretable Machine Learning by Christopher Molnar
 - XAI authors Scott Lundberg and Marco Ribeiro
