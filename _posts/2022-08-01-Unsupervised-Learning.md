@@ -12,3 +12,7 @@ description: RECAP of Deeplearning.AI - Unsupervised Learning
 ![image](https://i.stack.imgur.com/iWe4J.png)
 
 norm_ij = np.linalg.norm(X[i] - centroids[j])  # Your code to calculate the norm between (X[i] - centroids[j])
+
+[Workbook Links](https://github.com/anderson2805/portfolio/tree/main/assets/notebook/Machine%20Learning%20Specialization)
+
+For Unsupervised Learning (week 3) - access via [colab](https://github.com/anderson2805/portfolio/blob/main/assets/notebook/Machine%20Learning%20Specialization/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203/C3_W3_A1_Assignment.ipynb)

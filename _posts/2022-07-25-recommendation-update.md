@@ -3,7 +3,7 @@ title: Producing Explainable AI (XAI) and Interpretable Machine Learning Solutio
 tags: [Learning, Machine Learning, Artificial Intelligence, Recommender System]
 style: fill
 color: info
-description: >- Automated recommendations are everywhere: Netflix, Amazon, YouTube, and more. Recommender systems learn about your unique interests and show the products or content they think you’ll like best. Discover how to build your own recommender systems from one of the pioneers in the field. Frank Kane spent over nine years at Amazon, where he led the development of many of the company’s personalized product recommendation technologies. 
+description: Recommender systems learn about your unique interests and show the products or content they think you’ll like best. Discover how to build your own recommender systems from one of the pioneers in the field. Frank Kane spent over nine years at Amazon, where he led the development of many of the company’s personalized product recommendation technologies. 
 ---
 
 Source: [Frank Kane](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions)
